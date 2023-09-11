@@ -1,10 +1,9 @@
-# ⚠️ Bank-Vaults is being migrated ⚠️
-
-As we [announced](https://github.com/orgs/bank-vaults/discussions/1878) a couple weeks ago, Bank-Vaults is being migrated to a [new GitHub organization](https://github.com/bank-vaults).
-
-New contributions may not be accepted in this repository depending on the state of the migration. We suggest that you open an issue before sending pull requests.
-
-Thank you for your cooperation and understanding!
+> [!WARNING]
+> Bank-Vaults has been migrated to a new organization: https://github.com/bank-vaults
+>
+> See [this](https://github.com/orgs/bank-vaults/discussions/2118) post for changes and migration steps.
+>
+> **This project does not receive any more updates. We encourage you to upgrade.**
 
 <p align="center"><img src="docs/images/logo/bank-vaults-logo-vertical.svg" width="270"></p>
 
